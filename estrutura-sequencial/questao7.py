@@ -1,3 +1,5 @@
+# Realiza alguns cálculos com base nos valores informados
+
 a = int (input ('Digite um número inteiro:'))
 b = int (input ('Digite outro número inteiro:'))
 c = float (input ('Agora digite um número real:'))

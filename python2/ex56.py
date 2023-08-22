@@ -1,3 +1,5 @@
+# Identifica a média de idade, o nome da pessoa mais velha e a quantidade de mulheres com menos de 20 anos
+
 idade = 0
 idadevelho = 0
 nomevelho = ()

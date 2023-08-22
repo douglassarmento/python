@@ -1,3 +1,5 @@
+# Identifica a relação entre os números (de maior e de menor)
+
 n1 = int (input ('Digite um número:'))
 n2 = int (input ('Digite outro número:'))
 n3 = int (input ('Digite um último número:'))

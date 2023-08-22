@@ -1,3 +1,5 @@
+# Identifica a unidade, a dezena, a centena e a milhar de um número
+
 n = int (input ('Digite um número de 0 até 9999:'))
 print ('Analisando o número', n)
 num = str (n)
@@ -6,7 +8,7 @@ print ('Dezena:', f'{(num[2])}')
 print ('Centena:', f'{(num[1])}')
 print ('Milhar:', f'{(num[0])}')
 
-# também pode ser feito matematicamente, como da maneira a seguir:
+# outra forma:
 
 print ('Unidade:', f'{n//1%10}')
 print ('Dezena:', f'{n//10%10}')

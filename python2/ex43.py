@@ -1,3 +1,5 @@
+# Cálculo básico de IMC
+
 a = float (input ('Digite sua altura:'))
 p = float (input ('Digite seu peso:'))
 imc = p/(a)**2

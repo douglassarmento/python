@@ -1,3 +1,5 @@
+# Sorteia um aluno dentre três possíveis
+
 from random import choice
 a = str (input ('Digite um nome:'))
 b = str (input ('Digite um nome:'))

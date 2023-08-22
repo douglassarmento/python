@@ -1,3 +1,5 @@
+# Calcula o valor final de um produto com base no tipo de pagamento
+
 v = float (input ('Digite o valor do produto: R$'))
 f = int (input ('[1] À VISTA/DINHEIRO/CHEQUE - [2] À VISTA/CARTÃO - [3] PARCELADO 2X - [4] PARCELADO 3X OU MAIS:'))
 if f == 1:

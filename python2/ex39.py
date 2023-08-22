@@ -1,3 +1,5 @@
+# Identifica, com base na idade colocada, o tempo em relação ao período de alistamento
+
 from datetime import date
 ano = date.today().year
 a = int (input ('Digite o ano em que nasceu:'))

@@ -1,3 +1,5 @@
+# Identifica o maior e o menor peso
+
 maior = 0
 menor = 0
 for p in range (0, 5):

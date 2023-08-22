@@ -1,3 +1,5 @@
+# Converte um número em binário, em octal e em hexadecimal
+
 v = int (input ('Digite um valor:'))
 print ('[1] BINÁRIO - [2] OCTAL - [3] HEXADECIMAL')
 bn = int (input ('Digite a base numérica:'))

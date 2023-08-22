@@ -1,6 +1,9 @@
+# Programa de cadastro
+
 cadastro = []
 cadastrogeral = []
 c = int (input ('Número de cadastros:'))
+
 for x in range (0, c):
     print ()
     nome = str (input ('Nome:'))
@@ -9,8 +12,10 @@ for x in range (0, c):
     print ()
     cadastro = [nome, idade, email]
     cadastrogeral.append (cadastro)
+
 print ('-------------------- CADASTROS --------------------')
 print ()
+
 for cadastro in cadastrogeral:
     print (f'Nome: {cadastro [0]} | Idade: {cadastro [1]} anos | E-mail: {cadastro [2]}')
     print ()

@@ -1,3 +1,5 @@
+# Calcula a média de um aluno, mostrando o conceito referente à sua nota
+
 m = (float (input ('Primeira nota:')) + float (input ('Segunda nota:')))/2
 if m >= 9:
     print (f'Média: {m}. Conceito: A. Estado: APROVADO.')

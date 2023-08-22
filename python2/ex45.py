@@ -1,3 +1,5 @@
+# Jokenpô
+
 from random import choice
 j = int (input ('[1] PEDRA - [2] PAPEL - [3] TESOURA: '))
 pedra = 1; papel = 2; tesoura = 3

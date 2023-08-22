@@ -1,3 +1,5 @@
+# Coloca a ordem dos nomes
+
 from random import shuffle
 a = str (input ('Digite um nome:'))
 b = str (input ('Digite um nome:'))

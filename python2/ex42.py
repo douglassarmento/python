@@ -1,3 +1,5 @@
+# Calcula se os valores constituem um triângulo e dão o seu tipo
+
 r1 = int (input ('Digite o valor da primeira reta:'))
 r2 = int (input ('Digite o valor da segunda reta:'))
 r3 = int (input ('Digite o valor da terceira reta:'))

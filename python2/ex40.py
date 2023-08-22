@@ -1,3 +1,5 @@
+# Calcula uma média entre dois números
+
 media = (float (input ()) + float (input ()))/2
 if media >= 7:
     print (f'APROVADO. Média: {media}.')

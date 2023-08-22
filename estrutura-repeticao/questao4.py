@@ -1,3 +1,5 @@
+# Tabela de multiplicação (outra forma)
+
 x = int (input ('Digite um valor:'))
 y = 1
 while y <= 10:

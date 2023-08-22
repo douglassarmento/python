@@ -1,3 +1,5 @@
+# Calcula a permissão ou não de um empréstimo
+
 v = float (input ('Valor da casa: R$'))
 s = float (input ('Salário do comprador: R$'))
 q = float (input ('Quantidade de anos a pagar:'))

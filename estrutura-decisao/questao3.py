@@ -1,3 +1,5 @@
+# Calcula o preço final das maçãs com base na quantidade de frutas compradas
+
 n = int (input ('Digite a quantidade de maçãs compradas:'))
 if n >= 12:
     print (f'O preço das {n} maças é de R$ {n} reais.')

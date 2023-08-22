@@ -1,3 +1,5 @@
+# Identifica a categoria de uma pessoa em relação à sua idade
+
 from datetime import date
 anoatual = date.today().year
 anonasc = int (input ('Digite o ano em que nasceu:'))

@@ -1,3 +1,5 @@
+# Identifica a quantidade de pessoas com mais de 18 anos e menos de 18 anos
+
 maior = 0
 menor = 0
 from datetime import date

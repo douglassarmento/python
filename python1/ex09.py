@@ -1,4 +1,6 @@
-v = int (input ('Digite um núemero:'))
+# Calculadora
+
+v = int (input ('Digite um número:'))
 print ('Segue a tabela para o valor digitado')
 print ('{} x {} = {}'.format(v, 1, v*1))
 print ('{} x {} = {}'.format(v, 2, v*2))

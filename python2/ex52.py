@@ -1,3 +1,5 @@
+# Identifica se um número qualquer é ou não primo
+
 n = int (input ())
 for x in range (1, 10):
     if x == 1 or x == n:

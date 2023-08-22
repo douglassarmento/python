@@ -1,3 +1,5 @@
+# Calcula uma progressão aritmética
+
 p = int (input ('Primeiro termo:'))
 r = int (input ('Razão:'))
 n = 1
